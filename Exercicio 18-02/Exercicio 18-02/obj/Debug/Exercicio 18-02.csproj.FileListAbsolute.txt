@@ -1,0 +1,2 @@
+c:\users\manager\documents\visual studio 2015\Projects\Exercicio 18-02\Exercicio 18-02\bin\Debug\Exercicio 18-02.exe.config
+c:\users\manager\documents\visual studio 2015\Projects\Exercicio 18-02\Exercicio 18-02\obj\Debug\Exercicio 18-02.csprojResolveAssemblyReference.cache
